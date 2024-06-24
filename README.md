@@ -1,5 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
+<h1># Getting Started</h1>
+<p> <a href=“google.com">Install </a>the dependencies and run the project</p>
 ```
 npm install
 npm start
